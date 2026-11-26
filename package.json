@@ -1,0 +1,1 @@
+{"description":"One line you would send your younger self if one line were all you got.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"one-line-to-your-younger-self","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
